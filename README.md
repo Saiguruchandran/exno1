@@ -21,6 +21,8 @@ STEP 5: Remove outliers using IQR
 STEP 6: Use zscore of to remove outliers
 
 # Coding and Output
+![image](https://github.com/Saiguruchandran/exno1/assets/144870946/eb29eabd-2de6-415f-9744-795088641d4f)
+
 ![image](https://github.com/Saiguruchandran/exno1/assets/144870946/f8005dac-c747-45f7-b259-cfd2ad212849)
 
 ![image](https://github.com/Saiguruchandran/exno1/assets/144870946/01ad5c2e-1efb-449c-9cd7-d83d69f52103)
@@ -55,7 +57,7 @@ STEP 6: Use zscore of to remove outliers
 
 ![image](https://github.com/Saiguruchandran/exno1/assets/144870946/291394d8-6af9-445f-a431-6598a07e48da)
 
-![image](https://github.com/Saiguruchandran/exno1/assets/144870946/719e4c0e-d1cd-4776-bf87-3dff20e01a21)
+
 
 # Result
 thus the given program executed succesfully
