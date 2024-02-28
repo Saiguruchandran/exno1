@@ -55,6 +55,7 @@ STEP 6: Use zscore of to remove outliers
 
 ![image](https://github.com/Saiguruchandran/exno1/assets/144870946/291394d8-6af9-445f-a431-6598a07e48da)
 
-![Alt text](image-18.png)
+![image](https://github.com/Saiguruchandran/exno1/assets/144870946/719e4c0e-d1cd-4776-bf87-3dff20e01a21)
+
 # Result
 thus the given program executed succesfully
